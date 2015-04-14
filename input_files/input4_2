@@ -1,0 +1,9 @@
+POST ttp://somedir/page.html HTTP/1.1
+Connection: open
+Accept-Charset:IS-8859-1
+Referer:http://127.0.pass
+User-Agent:Mozilla/.0
+Content-Lengh:3
+Expires: 10/03/1994  10:35
+
+Hello my Parser

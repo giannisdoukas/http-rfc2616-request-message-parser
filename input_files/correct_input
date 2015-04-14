@@ -1,0 +1,9 @@
+GET http://somedir/page.html HTTP/1.2
+Connection: open
+Accept-Charset:ISO-8859-1
+Referer:http://127.0.pass
+User-Agent:Mozilla/4.0
+Content-Lenght:3
+Expires: 10/03/1994  10:35
+
+Hello my Parser
